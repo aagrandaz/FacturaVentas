@@ -3,7 +3,7 @@
 Es una aplicación moderna escrita en Java, para facturar artículos vendidos por una organización. La aplicación provee
 registro de artículos y clientes, necesarios para la facturación.
 
-![Imgur](https://i.imgur.com/xiFsapK.png)
+![Imgur](.)
 
 ## Características
 
